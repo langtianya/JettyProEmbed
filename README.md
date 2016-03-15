@@ -1,0 +1,2 @@
+# JettyProEmbed
+jetty嵌入eclipse开发 工程demo。直接在项目中的某类启动jetty服务
